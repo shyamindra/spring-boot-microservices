@@ -1,5 +1,10 @@
-package com.sid.user.data.models;
+package com.sid.userdata.user;
 
+import javax.persistence.Entity;
+
+import com.sid.userdata.shared.Address;
+
+@Entity
 public class UserDetails {
 	
 	private User user;

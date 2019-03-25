@@ -1,4 +1,6 @@
-package com.sid.user.data.models;
+package com.sid.userdata.shared;
+
+import com.sid.userdata.user.User;
 
 public class Address {
 	
